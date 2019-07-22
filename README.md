@@ -31,5 +31,11 @@ Different Task performed in this are
 Zalando, a fashion and technology company with a large presence in Dublin, have released MNIST Fashion, an alternative to the famous MNIST hand written digit classification dataset. The dataset contains 70,000 28x28 pixel grayscale images of fashion items of 10 different kinds: (0) T-shirt/top, (1) Trouser, (2) Pullover, (3) Dress, (4) Coat, (5) Sandal, (6) Shirt, (7) Sneaker, (8) Bag, and 9) Ankle boot. The task associated with this is to build a classification model that can recognise these different fashion items.
 
 
+### Multi-armed Bandits
+In this task policies for multiarmed bandit problem are implemented and compaired.
+random arm selection policy, a greedy arm selection policy, and an 𝜀-greedy arm selection policy.
+An 𝜀-first policy uses a random policy for the first N trials and then a greedy policy after that. 
+An 𝜀-decreasing policy basically uses an 𝜀-greedy strategy except the value of 𝜀 decreases over time.
+
 
 
