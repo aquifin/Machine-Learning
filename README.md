@@ -19,5 +19,14 @@ The 3 Stacked Ensembles implimented are:
 3. StackedEnsembleClassifierOneVsOne 
 
 
+### Lunar Lander
+Different Task performed in this are
+1. Train a supervised machine learning model to control the Lunar Lander craft based on the image dataset.
+  • Images were converted to greyscale.
+  • Images were shrinking.
+  • Class imbalance in the dataset was handelled.
+2. Use the DeepQLearning reinforcement learning algorithm to train an agent to play the Lunar Lander.
+
+
 
 
