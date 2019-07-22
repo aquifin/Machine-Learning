@@ -38,4 +38,6 @@ An 𝜀-first policy uses a random policy for the first N trials and then a gree
 An 𝜀-decreasing policy basically uses an 𝜀-greedy strategy except the value of 𝜀 decreases over time.
 
 
+### Monkey Classification
+The monkey species classification tasks from Kaggle https://www.kaggle.com/slothkong/10-monkey-species/home involves recognising 10 different species of monkey from disparate image types. The task is to build an accurate classification model for this scenario using different types of CNN model.
 
